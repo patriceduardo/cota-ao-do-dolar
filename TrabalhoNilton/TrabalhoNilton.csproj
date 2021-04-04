@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50A0E7AD-5CE4-4C73-A180-34EF2EC68BE7}</ProjectGuid>
+    <ProjectGuid>{78050319-66AF-409C-8CDD-43CDE1D5CDCA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>FaixaDePremiacao</RootNamespace>
-    <AssemblyName>FaixaDePremiacao</AssemblyName>
+    <RootNamespace>TrabalhoNilton</RootNamespace>
+    <AssemblyName>TrabalhoNilton</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

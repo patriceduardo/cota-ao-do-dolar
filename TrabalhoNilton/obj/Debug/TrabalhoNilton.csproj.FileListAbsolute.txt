@@ -1,0 +1,10 @@
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\bin\Debug\TrabalhoNilton.exe.config
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\bin\Debug\TrabalhoNilton.exe
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\bin\Debug\TrabalhoNilton.pdb
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\obj\Debug\TrabalhoNilton.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\obj\Debug\TrabalhoNilton.Form1.resources
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\obj\Debug\TrabalhoNilton.Properties.Resources.resources
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\obj\Debug\TrabalhoNilton.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\obj\Debug\TrabalhoNilton.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\obj\Debug\TrabalhoNilton.exe
+C:\Users\patri\source\repos\TrabalhoNilton\TrabalhoNilton\obj\Debug\TrabalhoNilton.pdb
